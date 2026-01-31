@@ -49,42 +49,30 @@ sealed class Screens (val route: String, val title: String, val icon: Int) {
 }
 
 @Composable
-fun App (){
+fun App() {
     val navController = rememberNavController()
+
+    val navBackStackEntry by navController.currentBackStackEntryAsState()
+    val currentRoute = navBackStackEntry?.destination?.route
+
+    val showBottomBar = currentRoute in setOf(
+        Screens.Meeting.route,
+        Screens.Profile.route,
+        Screens.Invitation.route
+    )
 
     Scaffold(
         bottomBar = {
-            AppBottomNavigation(navController = navController)
-            val currentRoute = navController.currentBackStackEntryAsState().value?.destination?.route
-            if (currentRoute != "login_screen" && currentRoute != "register_screen") {
+            if (showBottomBar) {
                 AppBottomNavigation(navController = navController)
             }
         }
-    ) {
-        paddingValues ->
+    ) { paddingValues ->
         NavHost(
             navController = navController,
             startDestination = "login_screen",
             modifier = Modifier.padding(paddingValues)
         ) {
-            composable (Screens.Meeting.route) {
-                MeetingsScreen(
-                    onNavigateToAddMeeting = {
-                        navController.navigate("add_meeting")
-                    }
-                )
-            }
-            composable(Screens.Profile.route) {
-                ProfileScreen()
-            }
-            composable(Screens.Invitation.route) {
-                InvitationsScreen()
-            }
-            composable ("add_meeting") {
-                AddMeeting(
-                    onBackClick = {navController.popBackStack()}
-                )
-            }
             composable("login_screen") {
                 LoginScreen(
                     onMeetingClick = {
@@ -104,8 +92,27 @@ fun App (){
                             popUpTo("login_screen") { inclusive = true }
                         }
                     },
-                    onBackClick = {navController.popBackStack()}
-
+                    onBackClick = {
+                        navController.popBackStack()
+                    }
+                )
+            }
+            composable(Screens.Meeting.route) {
+                MeetingsScreen(
+                    onNavigateToAddMeeting = {
+                        navController.navigate("add_meeting")
+                    }
+                )
+            }
+            composable(Screens.Profile.route) {
+                ProfileScreen()
+            }
+            composable(Screens.Invitation.route) {
+                InvitationsScreen()
+            }
+            composable("add_meeting") {
+                AddMeeting(
+                    onBackClick = { navController.popBackStack() }
                 )
             }
         }

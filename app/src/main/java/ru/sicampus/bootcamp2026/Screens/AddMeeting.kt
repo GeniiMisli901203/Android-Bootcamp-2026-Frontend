@@ -228,7 +228,7 @@ private fun CompactTimeIntervalCard(interval: TimeInterval) {
             horizontalArrangement = Arrangement.SpaceBetween,
             verticalAlignment = Alignment.CenterVertically
         ) {
-            // Время начала
+
             Text(
                 text = interval.start,
                 style = MaterialTheme.typography.bodyMedium.copy(
@@ -237,7 +237,7 @@ private fun CompactTimeIntervalCard(interval: TimeInterval) {
                 color = Color.Black
             )
 
-            // Разделитель
+
             Text(
                 text = "-",
                 style = MaterialTheme.typography.bodyMedium,
@@ -245,7 +245,7 @@ private fun CompactTimeIntervalCard(interval: TimeInterval) {
                 modifier = Modifier.padding(horizontal = 4.dp)
             )
 
-            // Время окончания
+
             Text(
                 text = interval.end,
                 style = MaterialTheme.typography.bodyMedium.copy(

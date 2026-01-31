@@ -22,7 +22,7 @@ import androidx.compose.ui.unit.dp
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun ProfileScreen() {
-    val userFullName = "Иван Иван Иванович"
+    val userFullName = "Иванов Иван Иванович"
     val phoneNumber = "+7 (999) 123-45-67"
     val email = "Ivanov@company.com"
     val position = "Старший разработчик"
