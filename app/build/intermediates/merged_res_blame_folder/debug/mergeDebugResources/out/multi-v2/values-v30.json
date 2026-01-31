@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "ru.sicampus.bootcamp2026.app-mergeDebugResources-46:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mikha\\.gradle\\caches\\8.13\\transforms\\dce919181c47a4d458e11f46dd5faed1\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
