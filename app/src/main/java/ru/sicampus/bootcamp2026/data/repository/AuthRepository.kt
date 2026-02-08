@@ -16,7 +16,11 @@ class AuthRepository(
 
     @RequiresApi(Build.VERSION_CODES.O)
     suspend fun login(email: String, password: String): Result<Unit> {
-        val request = UserLoginRequest(email, password)
+        val request = UserLoginRequest(
+            email = email,
+            password = password
+        )
+
         val result = travoRepository.login(request)
 
         return result.map { response ->
@@ -26,7 +30,12 @@ class AuthRepository(
 
     @RequiresApi(Build.VERSION_CODES.O)
     suspend fun register(email: String, displayName: String, password: String): Result<Unit> {
-        val request = UserRegisterRequest(email, displayName, password)
+        val request = UserRegisterRequest(
+            email = email,
+            password = password,
+            displayName = displayName
+        )
+
         val result = travoRepository.register(request)
 
         return result.map { user ->
