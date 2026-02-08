@@ -11,7 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidBootcamp2026Frontend"
-        android:usesCleartextTraffic="true"> <!-- Для работы с localhost -->
+        android:usesCleartextTraffic="true">
 
         <activity
             android:name=".MainActivity"

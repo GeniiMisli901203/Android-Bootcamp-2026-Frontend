@@ -1,4 +1,4 @@
-package com.travo
+package ru.sicampus.bootcamp2026
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

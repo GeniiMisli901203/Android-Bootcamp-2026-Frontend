@@ -1,66 +1,182 @@
 [
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_search.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_search.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_visibility_off.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_visibility_off.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/xml_data_extraction_rules.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/xml/data_extraction_rules.xml"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_add.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_add.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_launcher_background.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_launcher_foreground.xml"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_home_outline.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_home_outline.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_accommodation.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_accommodation.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_success.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_success.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/xml_backup_rules.xml.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/xml/backup_rules.xml"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_transport.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_transport.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_launcher.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_launcher.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_delete.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_delete.xml"
     },
     {
-        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "ru.sicampus.bootcamp2026.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_filter.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_close.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_home_filled.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_home_filled.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_refresh.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_edit.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_profile_outline.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_profile_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_entertainment.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_entertainment.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_back.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_settings.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_shopping.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_error.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-debug-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\mikha\\.gradle\\daemon\\8.13\\ru.sicampus.bootcamp2026.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_more_vert.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_more_vert.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_food.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_food.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_visibility.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_trip_filled.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_trip_filled.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_logout.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_profile_filled.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_profile_filled.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_other.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_other.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_trip_outline.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_trip_outline.xml"
+    },
+    {
+        "merged": "ru.sicampus.bootcamp2026.app-debug-51:/drawable_ic_placeholder.xml.flat",
+        "source": "ru.sicampus.bootcamp2026.app-main-53:/drawable/ic_placeholder.xml"
     }
 ]
